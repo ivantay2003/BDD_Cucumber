@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test1">
+    <classes>
+      <class name="cucumber.RunUserScenario1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="Test2_1">
+    <classes>
+      <class name="cucumber.RunUserScenario2_1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="Test2_2">
+    <classes>
+      <class name="cucumber.RunUserScenario2_2"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    
+   <test name="Test2_3">
+    <classes>
+      <class name="cucumber.RunUserScenario2_3"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+</suite> <!-- Suite -->
